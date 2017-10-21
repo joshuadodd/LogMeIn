@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  LogMeIn
 //
-//  Created by Nathan Hosselton on 10/21/17.
 //  Copyright © 2017 Codebase. All rights reserved.
 //
 
